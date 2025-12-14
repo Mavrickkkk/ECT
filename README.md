@@ -1,3 +1,4 @@
+# Le Vinyle 
 **Le Vinyle** est une application web communautaire permettant aux streamers Twitch de créer et d’animer des sessions musicales interactives avec leurs viewers.
 
 Chaque session est **créée, pilotée et contrôlée par le streamer**, qui agit également en tant **qu’hôte de la session**. Dans le cadre de l’application, **les notions de streamer et d’hôte de session désignent donc une seule et même personne**, afin d’éviter toute ambiguïté fonctionnelle ou organisationnelle.
